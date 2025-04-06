@@ -14,7 +14,7 @@
  * }
  * 
  * TC: O(n)
- * SC: O(n)
+ * SC: O(1)
  */
 class Solution {
     public int sumNumbers(TreeNode root) {
